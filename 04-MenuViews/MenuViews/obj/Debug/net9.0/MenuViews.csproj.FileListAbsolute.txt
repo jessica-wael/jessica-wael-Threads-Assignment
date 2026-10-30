@@ -1,0 +1,15 @@
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.exe
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.deps.json
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.runtimeconfig.json
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.dll
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.pdb
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.AssemblyInfoInputs.cache
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.AssemblyInfo.cs
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.csproj.CoreCompileInputs.cache
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.sourcelink.json
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.dll
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\refint\MenuViews.dll
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.pdb
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.genruntimeconfig.cache
+E:\AdvancedCsharp-Assignment-04-MenuViews\MenuViews\obj\Debug\net9.0\ref\MenuViews.dll
