@@ -1,0 +1,15 @@
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.exe
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.deps.json
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.runtimeconfig.json
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.dll
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.pdb
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.AssemblyInfoInputs.cache
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.AssemblyInfo.cs
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.csproj.CoreCompileInputs.cache
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.sourcelink.json
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.dll
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\refint\ViewsAndEmails.dll
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.pdb
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.genruntimeconfig.cache
+E:\AdvancedCsharp-Assignment-05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ref\ViewsAndEmails.dll
