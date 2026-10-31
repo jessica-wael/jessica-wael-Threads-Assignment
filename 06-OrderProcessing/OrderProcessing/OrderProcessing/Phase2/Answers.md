@@ -20,4 +20,24 @@ but await pauses the current method until the task completes and only then does 
 
 2- No, not every task create a new thread and Task.Delay() doesn't bolck the thread while it waits , the thread goes back to the threadPool and can run another task until the delay end.
 
-3- 
+3-  .Result or .Wait() make the current thread is blocked and waits until the task finishes. 
+It is dangerous because the thread does nothing while it waits. In apps with a UI thread or a synchronization context, 
+it can cause a deadlock: the task needs that thread to finish, and the thread waits for the task, so both wait forever. await does not have this problem because the thread is free while it waits.
+
+
+4- the exception is not seen, It stays inside the task and the program continues as if nothing happened. When we await the task, the exception is thrown at the await line and we can catch it
+It was caught because I awaited its task inside try/catch, so I could mark it Failed and release the stock.
+
+5- we use Task.Run() for CPU-bound work which means the CPU is busy calculatin. Don't use it when we only wait, like database calls or Task.Delay. 
+in that case async already frees the thread, so Task.Run only wastes one more thread.
+
+
+6- Task is an operation with no result. 
+Task<T> is an operation that gives a result of type T when it finishes. like Task<bool> => gives true or false.
+
+7- A lock must be released by the same thread that took it. 
+After an await, the code can continue on another thread and C# does not allow await inside a lock
+
+8- Order #10 and order #11 both read the stock as 1 before any of them wrote. 
+Both saw one keyboard, so both reserved it, and the stock became 0. 
+I fixed it with SemaphoreSlim and now the second order waits for the first one
