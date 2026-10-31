@@ -192,7 +192,7 @@ public class OrderProcessor
     {
         order.Status = status;
         order.FailureReason = reason;
-        await _orders.SaveAsync(order, ct);
+        await _orders.SaveAsync(order, CancellationToken.None);
         Log.Error("OrderProcessor", $"Order #{order.Id} -> {status}: {reason}");
         return false;
     }
