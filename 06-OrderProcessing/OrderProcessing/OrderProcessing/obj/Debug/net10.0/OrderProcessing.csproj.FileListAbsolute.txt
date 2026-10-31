@@ -1,0 +1,15 @@
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.exe
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.deps.json
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.runtimeconfig.json
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.dll
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\bin\Debug\net10.0\OrderProcessing.pdb
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.AssemblyInfoInputs.cache
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.AssemblyInfo.cs
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.csproj.CoreCompileInputs.cache
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.sourcelink.json
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.dll
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\refint\OrderProcessing.dll
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.pdb
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\OrderProcessing.genruntimeconfig.cache
+E:\C# Advanced 1\jessica-wael-Threads-Assignment\06-OrderProcessing\OrderProcessing\OrderProcessing\obj\Debug\net10.0\ref\OrderProcessing.dll

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "18868046-c04e-48f5-9489-aa14746a563b",
+    "orderId": 10,
+    "to": "dina.fathy@example.com",
+    "subject": "Order #10 confirmed",
+    "body": "Thank you Dina Fathy, your order #10 is confirmed.",
+    "sentAt": "2026-10-31T15:18:48.1389823+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "47c879c7-4d22-4147-8157-1aa244139576",
+    "orderId": 6,
+    "to": "nour.khaled@example.com",
+    "subject": "Order #6 confirmed",
+    "body": "Thank you Nour Khaled, your order #6 is confirmed.",
+    "sentAt": "2026-10-31T15:18:53.4780234+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "772e8e25-3aa2-4ccc-b72e-2781658a89e8",
+    "orderId": 19,
+    "to": "hassan.tarek@example.com",
+    "subject": "Order #19 confirmed",
+    "body": "Thank you Hassan Tarek, your order #19 is confirmed.",
+    "sentAt": "2026-10-31T15:18:56.6821981+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "c888ef50-baa5-46fd-b81d-1127517f27a8",
+    "orderId": 2,
+    "to": "sara.mohamed@example.com",
+    "subject": "Order #2 confirmed",
+    "body": "Thank you Sara Mohamed, your order #2 is confirmed.",
+    "sentAt": "2026-10-31T15:18:59.8666973+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "5e36c650-0fbe-4341-b2a6-63ac749d8d2a",
+    "orderId": 16,
+    "to": "nour.khaled@example.com",
+    "subject": "Order #16 confirmed",
+    "body": "Thank you Nour Khaled, your order #16 is confirmed.",
+    "sentAt": "2026-10-31T15:19:04.5882485+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "70e5bbbb-b475-4a1a-be36-ca6399e2522b",
+    "orderId": 7,
+    "to": "karim.samir@example.com",
+    "subject": "Order #7 confirmed",
+    "body": "Thank you Karim Samir, your order #7 is confirmed.",
+    "sentAt": "2026-10-31T15:19:06.4732774+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "e4ba4f07-f035-4841-85ce-aec2a1574010",
+    "orderId": 1,
+    "to": "ahmed.ali@example.com",
+    "subject": "Order #1 confirmed",
+    "body": "Thank you Ahmed Ali, your order #1 is confirmed.",
+    "sentAt": "2026-10-31T15:19:08.3506527+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "e13f6e0f-c7e8-4c3a-b25c-1997aa89f4b5",
+    "orderId": 14,
+    "to": "youssef.adel@example.com",
+    "subject": "Order #14 confirmed",
+    "body": "Thank you Youssef Adel, your order #14 is confirmed.",
+    "sentAt": "2026-10-31T15:19:09.3169612+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9b2534d0-c739-4992-8778-d54a9673bb2b",
+    "orderId": 3,
+    "to": "omar.hassan@example.com",
+    "subject": "Order #3 confirmed",
+    "body": "Thank you Omar Hassan, your order #3 is confirmed.",
+    "sentAt": "2026-10-31T15:19:09.9324724+02:00",
+    "attempts": 3,
+    "lastError": null
+  },
+  {
+    "id": "595789ba-d0cd-4853-80fb-22b43c9a6523",
+    "orderId": 20,
+    "to": "dina.fathy@example.com",
+    "subject": "Order #20 confirmed",
+    "body": "Thank you Dina Fathy, your order #20 is confirmed.",
+    "sentAt": "2026-10-31T15:19:10.2595092+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "4fe614b3-3c20-41a7-a21d-d38db1687336",
+    "orderId": 1003,
+    "to": "test@example.com",
+    "subject": "Order #1003 confirmed",
+    "body": "Thank you Test Customer, your order #1003 is confirmed.",
+    "sentAt": "2026-10-31T15:19:25.3340648+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "6f8f76b2-5857-4a0c-b90e-b1ec2f74b179",
+    "orderId": 1002,
+    "to": "test@example.com",
+    "subject": "Order #1002 confirmed",
+    "body": "Thank you Test Customer, your order #1002 is confirmed.",
+    "sentAt": "2026-10-31T15:19:25.3345779+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "1299be58-4782-4186-aba5-f680be63c629",
+    "orderId": 1001,
+    "to": "test@example.com",
+    "subject": "Order #1001 confirmed",
+    "body": "Thank you Test Customer, your order #1001 is confirmed.",
+    "sentAt": "2026-10-31T15:19:25.3342767+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "244465d5-a0da-42c4-9ae1-bf6b81e99d3f",
+    "orderId": 1004,
+    "to": "test@example.com",
+    "subject": "Order #1004 confirmed",
+    "body": "Thank you Test Customer, your order #1004 is confirmed.",
+    "sentAt": "2026-10-31T15:19:25.3343951+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "33a93423-3230-4244-9fb8-ec4e23e1c258",
+    "orderId": 1005,
+    "to": "test@example.com",
+    "subject": "Order #1005 confirmed",
+    "body": "Thank you Test Customer, your order #1005 is confirmed.",
+    "sentAt": "2026-10-31T15:19:26.3765797+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "d6e7e497-2de8-49fc-9fad-49d40864c510",
+    "orderId": 1006,
+    "to": "test@example.com",
+    "subject": "Order #1006 confirmed",
+    "body": "Thank you Test Customer, your order #1006 is confirmed.",
+    "sentAt": "2026-10-31T15:19:26.4080738+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "686af72f-64aa-4b08-b811-23ca8b8a26bf",
+    "orderId": 1007,
+    "to": "test@example.com",
+    "subject": "Order #1007 confirmed",
+    "body": "Thank you Test Customer, your order #1007 is confirmed.",
+    "sentAt": "2026-10-31T15:19:26.4404375+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "12284633-b8df-4d9f-b288-774e0962f13d",
+    "orderId": 1008,
+    "to": "test@example.com",
+    "subject": "Order #1008 confirmed",
+    "body": "Thank you Test Customer, your order #1008 is confirmed.",
+    "sentAt": "2026-10-31T15:19:26.4458651+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "aa446a8b-26ac-4cc1-998f-af7937f2867b",
+    "orderId": 1009,
+    "to": "test@example.com",
+    "subject": "Order #1009 confirmed",
+    "body": "Thank you Test Customer, your order #1009 is confirmed.",
+    "sentAt": "2026-10-31T15:19:27.4204487+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "99dfe727-105a-46bd-b4f3-f980e19a7219",
+    "orderId": 1010,
+    "to": "test@example.com",
+    "subject": "Order #1010 confirmed",
+    "body": "Thank you Test Customer, your order #1010 is confirmed.",
+    "sentAt": "2026-10-31T15:19:27.4522457+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "bffdcfd1-4d49-45bb-8796-cbe85b4d028a",
+    "orderId": 1011,
+    "to": "test@example.com",
+    "subject": "Order #1011 confirmed",
+    "body": "Thank you Test Customer, your order #1011 is confirmed.",
+    "sentAt": "2026-10-31T15:19:27.4835133+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "34d1a95e-917b-4dba-b8fc-ae160527719c",
+    "orderId": 1012,
+    "to": "test@example.com",
+    "subject": "Order #1012 confirmed",
+    "body": "Thank you Test Customer, your order #1012 is confirmed.",
+    "sentAt": "2026-10-31T15:19:27.499345+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "50c580e5-906d-434c-af79-0d8b3b05f484",
+    "orderId": 1013,
+    "to": "test@example.com",
+    "subject": "Order #1013 confirmed",
+    "body": "Thank you Test Customer, your order #1013 is confirmed.",
+    "sentAt": "2026-10-31T15:19:28.4516102+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "7ffa380e-1b00-411b-87e6-4e062a4c8784",
+    "orderId": 1014,
+    "to": "test@example.com",
+    "subject": "Order #1014 confirmed",
+    "body": "Thank you Test Customer, your order #1014 is confirmed.",
+    "sentAt": "2026-10-31T15:19:28.4835034+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "4a73ae51-5985-4fbc-9ee3-1fbfd4437fc4",
+    "orderId": 1015,
+    "to": "test@example.com",
+    "subject": "Order #1015 confirmed",
+    "body": "Thank you Test Customer, your order #1015 is confirmed.",
+    "sentAt": "2026-10-31T15:19:28.5299748+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "bb7215c8-6b33-41be-a4ab-2e87900174f5",
+    "orderId": 1016,
+    "to": "test@example.com",
+    "subject": "Order #1016 confirmed",
+    "body": "Thank you Test Customer, your order #1016 is confirmed.",
+    "sentAt": "2026-10-31T15:19:28.5457501+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9e3dbdda-34e0-4ca7-a89e-b87e18edceb7",
+    "orderId": 1017,
+    "to": "test@example.com",
+    "subject": "Order #1017 confirmed",
+    "body": "Thank you Test Customer, your order #1017 is confirmed.",
+    "sentAt": "2026-10-31T15:19:29.487862+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "11abb3c9-be6c-4acb-a76a-f4efafec6963",
+    "orderId": 1018,
+    "to": "test@example.com",
+    "subject": "Order #1018 confirmed",
+    "body": "Thank you Test Customer, your order #1018 is confirmed.",
+    "sentAt": "2026-10-31T15:19:29.5192068+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "a2ee9ab3-7c96-4a0a-a638-ff6721bbdc9a",
+    "orderId": 1020,
+    "to": "test@example.com",
+    "subject": "Order #1020 confirmed",
+    "body": "Thank you Test Customer, your order #1020 is confirmed.",
+    "sentAt": "2026-10-31T15:19:29.5824996+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "7c3a229a-28ee-450f-af6f-ae9d06827f17",
+    "orderId": 1019,
+    "to": "test@example.com",
+    "subject": "Order #1019 confirmed",
+    "body": "Thank you Test Customer, your order #1019 is confirmed.",
+    "sentAt": "2026-10-31T15:19:29.5825496+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "dfea777f-2929-47db-a236-bac07d72f65b",
+    "orderId": 1021,
+    "to": "test@example.com",
+    "subject": "Order #1021 confirmed",
+    "body": "Thank you Test Customer, your order #1021 is confirmed.",
+    "sentAt": "2026-10-31T15:19:30.5353456+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "cea85352-8d49-413b-b390-021ae6c12d54",
+    "orderId": 1022,
+    "to": "test@example.com",
+    "subject": "Order #1022 confirmed",
+    "body": "Thank you Test Customer, your order #1022 is confirmed.",
+    "sentAt": "2026-10-31T15:19:30.5672337+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "8c3c749b-a2c1-4b05-9da8-ce72cdd03bc8",
+    "orderId": 1023,
+    "to": "test@example.com",
+    "subject": "Order #1023 confirmed",
+    "body": "Thank you Test Customer, your order #1023 is confirmed.",
+    "sentAt": "2026-10-31T15:19:30.6312399+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9f6ae1af-a1af-4d50-a1ff-97cb92bd0fc5",
+    "orderId": 1024,
+    "to": "test@example.com",
+    "subject": "Order #1024 confirmed",
+    "body": "Thank you Test Customer, your order #1024 is confirmed.",
+    "sentAt": "2026-10-31T15:19:30.663001+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "4272d036-c2b7-4d94-a5c5-ead68b104b1d",
+    "orderId": 1025,
+    "to": "test@example.com",
+    "subject": "Order #1025 confirmed",
+    "body": "Thank you Test Customer, your order #1025 is confirmed.",
+    "sentAt": "2026-10-31T15:19:31.5840611+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "26dbfab9-fe30-4311-96c8-656a7d071df2",
+    "orderId": 1026,
+    "to": "test@example.com",
+    "subject": "Order #1026 confirmed",
+    "body": "Thank you Test Customer, your order #1026 is confirmed.",
+    "sentAt": "2026-10-31T15:19:31.6000337+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9dab8983-3116-41e2-8ca5-61cdaf34cbe9",
+    "orderId": 1027,
+    "to": "test@example.com",
+    "subject": "Order #1027 confirmed",
+    "body": "Thank you Test Customer, your order #1027 is confirmed.",
+    "sentAt": "2026-10-31T15:19:31.6789473+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "5ce0484a-3d1b-4fff-ac77-09db14e1ccdb",
+    "orderId": 1028,
+    "to": "test@example.com",
+    "subject": "Order #1028 confirmed",
+    "body": "Thank you Test Customer, your order #1028 is confirmed.",
+    "sentAt": "2026-10-31T15:19:31.6948612+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "a09fa4b4-a2ba-43a3-abb0-ef2e17c0fb3f",
+    "orderId": 1029,
+    "to": "test@example.com",
+    "subject": "Order #1029 confirmed",
+    "body": "Thank you Test Customer, your order #1029 is confirmed.",
+    "sentAt": "2026-10-31T15:19:32.6150089+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9a3b352a-480c-4fc3-ae17-6b0414c7f552",
+    "orderId": 1030,
+    "to": "test@example.com",
+    "subject": "Order #1030 confirmed",
+    "body": "Thank you Test Customer, your order #1030 is confirmed.",
+    "sentAt": "2026-10-31T15:19:32.6466085+02:00",
+    "attempts": 1,
+    "lastError": null
+  }
+]

@@ -1,0 +1,15 @@
+E:\rider.projects\InvoiceExport\bin\Debug\net9.0\InvoiceExport.exe
+E:\rider.projects\InvoiceExport\bin\Debug\net9.0\InvoiceExport.deps.json
+E:\rider.projects\InvoiceExport\bin\Debug\net9.0\InvoiceExport.runtimeconfig.json
+E:\rider.projects\InvoiceExport\bin\Debug\net9.0\InvoiceExport.dll
+E:\rider.projects\InvoiceExport\bin\Debug\net9.0\InvoiceExport.pdb
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.AssemblyInfoInputs.cache
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.AssemblyInfo.cs
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.csproj.CoreCompileInputs.cache
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.sourcelink.json
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.dll
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\refint\InvoiceExport.dll
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.pdb
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\InvoiceExport.genruntimeconfig.cache
+E:\rider.projects\InvoiceExport\obj\Debug\net9.0\ref\InvoiceExport.dll

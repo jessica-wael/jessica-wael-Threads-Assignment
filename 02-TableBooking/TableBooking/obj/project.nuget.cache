@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8AhFYmWvH4=",
+  "success": true,
+  "projectFilePath": "E:\\C# Advanced 1\\jessica-wael-Threads-Assignment\\02-TableBooking\\TableBooking\\TableBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mega Store\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.20\\microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\Mega Store\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.20\\microsoft.windowsdesktop.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\Mega Store\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.20\\microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\Mega Store\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.20\\microsoft.netcore.app.host.win-x64.9.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
