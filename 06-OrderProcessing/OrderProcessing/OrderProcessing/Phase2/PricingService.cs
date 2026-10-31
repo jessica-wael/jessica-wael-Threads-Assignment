@@ -101,8 +101,30 @@ public class PricingService
           return 0m;
          
 
-      var ShippingCost = 5.00m + 1.50m * totalQty + 2.00m * totalWeight;
-      return Math.Round(ShippingCost, 2, MidpointRounding.AwayFromZero);
+      var shippingCost = 5.00m + 1.50m * totalQty + 2.00m * totalWeight;
+      return Math.Round(shippingCost, 2, MidpointRounding.AwayFromZero);
+    }
+    public async Task<decimal> CalculateTotalAsync(Order order, CancellationToken ct = default)
+    {
+        order.Subtotal = await CalculateSubTotalAsync(order, ct);
+
+        if (order.CouponCode != null)
+        {
+            var coupon = await _coupons.GetByCodeAsync(order.CouponCode, ct);
+            if (coupon == null)
+                throw new InvalidCouponException($"Coupon '{order.CouponCode}' does not exist");
+            if (coupon.ExpiryDate < DateTime.Today)
+                throw new InvalidCouponException($"Coupon '{order.CouponCode}' has expired");
+        }
+
+        var discountTask = GetDiscountAsync(order, ct);
+        var shippingTask = CalculateShippingCostAsync(order, ct);
+
+        decimal discount = await discountTask;
+        decimal shipping = await shippingTask;
+
+        order.TotalAmount = order.Subtotal - discount + shipping;
+        return order.TotalAmount;
     }
 
     

@@ -1,4 +1,5 @@
-﻿using OrderProcessing.Shared.Logging;
+﻿using OrderProcessing.Shared.Exceptions;
+using OrderProcessing.Shared.Logging;
 using OrderProcessing.Shared.Models;
 using OrderProcessing.Shared.Storage;
 namespace OrderProcessing.Phase1;
@@ -8,6 +9,16 @@ public class OrderRepository
 {
     private static readonly SemaphoreSlim OrdersLock = new(1, 1);
 
+    private readonly HashSet<int> _failSaveForOrderIds;
+
+    public OrderRepository() : this(Array.Empty<int>()) { }
+
+    public OrderRepository(IEnumerable<int> failSaveForOrderIds)
+    {
+        _failSaveForOrderIds = new HashSet<int>(failSaveForOrderIds);
+    }
+    
+    
     public  async Task SaveAsync(Order order,CancellationToken ct = default)
     {
         await OrdersLock.WaitAsync(ct);
@@ -21,6 +32,9 @@ public class OrderRepository
 
             Log.Info("OrderRepository", $"Saving Order #{order.Id}...");
             await Task.Delay(400, ct);
+            
+            if (order.Status == OrderStatus.Completed && _failSaveForOrderIds.Contains(order.Id))
+                throw new DatabaseWriteException("Connection lost during commit");
 
             var orders = await JsonFileStore.ReadAsync<Order>(DataFiles.Orders, ct);
             var index = orders.FindIndex(o => o.Id == order.Id);
